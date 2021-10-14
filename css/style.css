@@ -1,0 +1,37 @@
+.my_container{
+    width: 1000px;
+    margin: 50px auto;
+}
+
+.container_hero{
+    width: 75%;
+    position: relative;
+}
+
+.container_hero img{
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.my_text{
+    position: absolute;
+    bottom: 20px;
+    right: 50px;
+}
+
+.container_immagini_s{
+    width: 25%
+}
+
+.container_immagini_s img {
+    height: 100%;
+    width: 100%;
+}
+
+
+
+
