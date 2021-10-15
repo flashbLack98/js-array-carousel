@@ -24,6 +24,9 @@
     bottom: 20px;
     right: 50px;
     z-index: 100;
+}
+
+.my_text h3,h5{
     color: transparent;
     cursor: default;
 }
